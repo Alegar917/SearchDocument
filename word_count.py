@@ -1,5 +1,5 @@
 import pprint
-a=open("Alice.txt","r")# text file which is read
+a=open("Alice.txt","r")# the text file which is read
 line=" "
 dic={}
 
